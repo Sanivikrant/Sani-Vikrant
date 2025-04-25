@@ -2,15 +2,16 @@ import { motion } from "framer-motion";
 
 const glimpse = [
   {
-    image: "./images/ui-1.jpg", 
-    title: "Appreciation of projects in national news paper",
-    link: "https://drive.google.com/drive/folders/1ozAVkJQn76qESg9q3NTQOAhnhNpiJMo2?usp=drive_link",
-  },
-  {
     image: "./images/ui-6.jpeg", 
     title: "TEKATHON 2.0(SIH)",
     link: "https://www.linkedin.com/feed/update/urn:li:activity:7115392670369247234?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaTzm0B5RfKazxdAbpYV5Qx-5hyAJcf1Ts",
   },
+  {
+    image: "./images/ui-9.jpg", 
+    title: "Secured 1st place in the Science Cluster at the CU Project Expo 2025",
+    link: "https://drive.google.com/drive/folders/1ozAVkJQn76qESg9q3NTQOAhnhNpiJMo2?usp=drive_link",
+  },
+  
   {
     image: "./images/ui-2.jpg", 
     title: "T.A.R.A.S. 2.0 (Tactical Autonomous Recon and Assault System)",
@@ -40,6 +41,11 @@ const glimpse = [
     image: "./images/ui-8.jpg", 
     title: "Brain-it-on 2.0 PVPIT Soil Monitoring System for Precision Agriculture",
     link: "https://drive.google.com/drive/folders/1kd5mwiM8dddSbe_VWn60c25YqYOK3yyz?usp=drive_link",
+  },
+  {
+    image: "./images/ui-1.jpg", 
+    title: "Appreciation of projects in national news paper",
+    link: "https://drive.google.com/drive/folders/1ozAVkJQn76qESg9q3NTQOAhnhNpiJMo2?usp=drive_link",
   },
 ];
 
