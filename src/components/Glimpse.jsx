@@ -9,7 +9,7 @@ const glimpse = [
   {
     image: "./images/ui-9.jpg", 
     title: "Secured 1st place in the Science Cluster at the CU Project Expo 2025",
-    link: "https://drive.google.com/drive/folders/1ozAVkJQn76qESg9q3NTQOAhnhNpiJMo2?usp=drive_link",
+    link: "https://www.linkedin.com/posts/sani-vikrant_leadership-innovation-stem-activity-7321400170066165761-gBCY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaTzm0B5RfKazxdAbpYV5Qx-5hyAJcf1Ts",
   },
   
   {
