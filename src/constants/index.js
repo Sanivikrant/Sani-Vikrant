@@ -3,6 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
+import project6 from "../assets/projects/project-6.jpg";
 
 
 export const HERO_CONTENT = `As a Full Stack Developer, I specialize in building complete web applications that are efficient, scalable, and user-friendly. I work extensively with React.js, Node.js, Express.js, and MongoDB, ensuring seamless integration between the frontend and backend. My development workflow emphasizes clean code, modular architecture, and responsive design. I also have hands-on experience with cloud platforms like AWS, along with proficiency in RESTful APIs, EJS templating, and database management using both SQL and NoSQL systems. My projects reflect a deep understanding of software engineering principles, backed by practical experience in IoT systems, AI integration, and secure coding practices.
@@ -15,14 +16,22 @@ export const ABOUT_TEXT = `I'm Sani Vikrant, a Computer Science & Engineering un
 
 export const EXPERIENCES = [
   {
-    year: "June - 2023",
+    year: "May 2025 - current",
+    role: "MERN Stack",
+    company: "Omnia Papers",
+    description: `A responsive web app built with React and Node.js to showcase paper products. Includes modular components like navbar, hero, features, and footer with clean UI and scalable structure.`,
+    technologies: ["MongoDB", "Express.js", "React.js", "Node.js"],
+    certificateLink: "" // Add if available
+
+  },
+  {
+    year: "June 2023 - August 2023",
     role: "Full Stack Web Developer Intern",
     company: "iHUB DivyaSampark, IIT Roorkee",
     description: `Worked on MERN-based full-stack projects, Built and deployed end-to-end applications, focusing on scalable backend services, intuitive frontend interfaces, and efficient database management during the internship.`,
     technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "AWS", "IoT"],
     certificateLink: "" // Add if available
   },
-
 ];
 
 export const PROJECTS = [
@@ -42,6 +51,16 @@ export const PROJECTS = [
     technologies: ["Node.js", "Express.js", "EJS", "HTML", "CSS"],
     link: "https://github.com/Sanivikrant/Crud-web-application" // Replace with actual URL
   },
+
+  {
+    title: "Social-Media-BACKEND",
+    image: project6, // Replace with actual image import or URL
+    description:
+      "This project is a Node.js-based backend for a basic social media platform, implementing all core functionalities expected in such a system. It allows users to create profiles, authenticate using JWT, follow other users, create and interact with posts, and build personalized content feeds.",
+    technologies: ["Node.js", "Express.js","JWT","Postman","SQL"],
+    link: "https://github.com/Sanivikrant/Social-Media-BACKEND" // Replace with actual URL
+  },
+
   {
     title: "E-Commerce Website",
     image: project3, // Replace with actual image import or URL

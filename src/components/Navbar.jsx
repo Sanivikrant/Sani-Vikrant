@@ -17,7 +17,7 @@ const Navbar = () => {
         </a>
 
         <a
-          href="https://drive.google.com/file/d/1feFo4gTe81gCSP2Dot6jtQDL9Wc6tcDh/view?usp=sharing"
+          href="https://drive.google.com/file/d/1YEOudLaResVNQnovIn6abWgbikRy58zU/view?usp=sharing"
           target="_blank"
           className="flex items-center"
         >
